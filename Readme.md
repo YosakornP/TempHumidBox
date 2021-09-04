@@ -1,2 +1,3 @@
 <h1>TempHumidBox</h1>
-<p>ตัวอย่างการสร้างกล่องใส่อุปกรณ์</p>
+<p>รูปตัวอย่างงาน</p>
+<img src="work.png" width="104" height="142">
