@@ -1,6 +1,7 @@
 <h1>TempHumidBox</h1>
 <p>รูปตัวอย่างงาน</p>
-<img src="ref/work1.png" width="300" height="300">
+<img src="ref/work1.png" width="500" height="300">
+<h2></h2>
 
 <p>รูปตัวอย่างอุปกรณ์ที่ใช้</p>
 <img src="ref/09ef71e3c812a615.webp" width="300" height="300">
