@@ -6,24 +6,28 @@
 <p>รูปตัวอย่างอุปกรณ์ที่ใช้</p>
 <img src="ref/09ef71e3c812a615.webp" width="300" height="300">
 <h3>ขนาด 3.7 mm</h3>
-<h3>ref: https://www.lazada.co.th/products/js-910b-37-1-i899960679-s1817174327.html?exlaz=d_1:mm_150050845_51350205_2010350205::12:12654756915!117524295342!!!pla-294682000766!c!294682000766!1817174327!135253431&gclid=Cj0KCQjwssyJBhDXARIsAK98ITR1MCnF94tveQ1Qvz00456ZXcG89rLSUP0R-mrSYsodgyDPuh--RJ4aAidCEALw_wcB</h3>
+<h2>ref: https://www.lazada.co.th/products/js-910b-37-1-i899960679-s1817174327.html?exlaz=d_1:mm_150050845_51350205_2010350205::12:12654756915!117524295342!!!pla-294682000766!c!294682000766!1817174327!135253431&gclid=Cj0KCQjwssyJBhDXARIsAK98ITR1MCnF94tveQ1Qvz00456ZXcG89rLSUP0R-mrSYsodgyDPuh--RJ4aAidCEALw_wcB</h2>
 
 <img src="ref/bb.jpg" width="300" height="300">
 <h3>ขนาด 35 mm x 46 mm</h3>
-<h3>Ref: https://www.arduino4.com/product/183/mini-breadboard-%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%97%E0%B8%94%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81-170-holes</h3>
+<h2>Ref: https://www.arduino4.com/product/183/mini-breadboard-%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94%E0%B8%97%E0%B8%94%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81-170-holes</h2>
 
 <img src="ref/unknown (1).png" width="300" height="300">
 <h3>ขนาด 12mm x 12 mm</h3>
-<h3>Ref : https://shopee.co.th/Queen-2pcs-Big-Button-Button-Module-Big-Key-Button-Light-Touch-Switch-12mmx12mm-Hat-Output-Module-For-Arduino-i.22190646.6093923062?gclid=Cj0KCQjwssyJBhDXARIsAK98ITTCR3zka0bBjTx35GNgxiNoT6Vb1rHQqrx8VbwHBM8i88X5cqBluf8aAmCmEALw_wcB</h3>
+<h2>Ref : https://shopee.co.th/Queen-2pcs-Big-Button-Button-Module-Big-Key-Button-Light-Touch-Switch-12mmx12mm-Hat-Output-Module-For-Arduino-i.22190646.6093923062?gclid=Cj0KCQjwssyJBhDXARIsAK98ITTCR3zka0bBjTx35GNgxiNoT6Vb1rHQqrx8VbwHBM8i88X5cqBluf8aAmCmEALw_wcB</h2>
 
 <img src="ref/unknown (2).png" width="300" height="300">
 <h3>ขนาดSize: 28.2 mm (length) * 13.1 mm (width) * 10 mm (high)</h3>
-<h3>Ref: https://www.robotsiam.com/product/151/dht22-temperature-and-humidity-sensor-pcb</h3>
+<h2>Ref: https://www.robotsiam.com/product/151/dht22-temperature-and-humidity-sensor-pcb</h2>
 
 <img src="ref/unknown (3).png" width="300" height="300">
 <h3>ขนาด 5mm</h3>
-<h3>Ref  https://www.lazada.co.th/products/makeeasy-led-5mm-5-led-led-i2157454579-s7186560944.html?spm=a2o4m.searchlist.list.72.49e55d7bAi9KcA&search=1</h3>
+<h2>Ref  https://www.lazada.co.th/products/makeeasy-led-5mm-5-led-led-i2157454579-s7186560944.html?spm=a2o4m.searchlist.list.72.49e55d7bAi9KcA&search=1</h2>
 
 <img src="ref/unknown.png" width="300" height="300">
 <h3>ขนาด 4.2 x 2.6 x 1.8 cm</h3>
-<h3>Ref : https://shopee.co.th/3Vdc-Relay-Module--1-Channel--i.132454846.6317288773?gclid=Cj0KCQjwssyJBhDXARIsAK98ITSTbTrqiySkUXGqc3FEbjNzdiusM0mOwrT57KOdIOGrkTqwpDc0JGAaAhsrEALw_wcB</h3>
+<h2>Ref : https://shopee.co.th/3Vdc-Relay-Module--1-Channel--i.132454846.6317288773?gclid=Cj0KCQjwssyJBhDXARIsAK98ITSTbTrqiySkUXGqc3FEbjNzdiusM0mOwrT57KOdIOGrkTqwpDc0JGAaAhsrEALw_wcB</h2>
+
+<img src="ref/f931eb237203f87d5017775a1c2a6001.jpg" width="300" height="300">
+<h3>ขนาด M2 1.5 mm - M3 2.5 mm</h3>
+<h2>ref : http://www.dojogarden.com/index.php?id_product=84&controller=product</h2>
