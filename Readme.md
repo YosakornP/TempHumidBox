@@ -1,7 +1,10 @@
 <h1>TempHumidBox</h1>
-<p>รูปตัวอย่างงาน</p>
+<p>รูปตัวอย่างงานโดยรวม</p>
 <img src="ref/work1.png" width="500" height="300">
-<p></p>
+<p>รูปตัวอย่างงาน ด้านบน</p>
+<img src="ref/workTop.png" width="500" height="300">
+<p>รูปตัวอย่างงาน ด้านหน่้า</p>
+<img src="ref/workfront.png" width="500" height="300">
 <h4>ขนาดของแผ่นฐาน และ ฝา : 100 mm x 60 mm
 
 ขนาดของแผ่นฝา : 100 mm x 60 mm
